@@ -6,7 +6,7 @@
  ## forked from:
  - https://github.com/mwcm
 
-**usage:**
+**usage:** <br>
 `python xlsxdiff.py --file1 /path/to/file1.xlsx --file2 /path/to/file2.xlsx`
 
 **outputs:**
