@@ -16,7 +16,7 @@
 - output options
 - clarify input restrictions wrt column label & value's names & types
 
-Click Example:
+**Click Example:
 ```
 import click
 
