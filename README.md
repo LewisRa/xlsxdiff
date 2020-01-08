@@ -7,7 +7,7 @@
  - https://github.com/mwcm
 
 **usage:**
-- python xlsxdiff.py --file1 /path/to/file1.xlsx --file2 /path/to/file2.xlsx
+`python xlsxdiff.py --file1 /path/to/file1.xlsx --file2 /path/to/file2.xlsx`
 
 **outputs:**
 - ./Excel_diff.xlsx
@@ -15,7 +15,7 @@
 **todo:**
 - output options
 - clarify input restrictions wrt column label & value's names & types
-
+---
 **Click Example:**
 ```
 import click
