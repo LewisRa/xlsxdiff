@@ -1,6 +1,9 @@
 # Comparing two excel files for difference using Python
 
-built using https://kanoki.org/2019/02/26/compare-two-excel-files-for-difference-using-python/
+## idea from:
+ https://kanoki.org/2019/02/26/compare-two-excel-files-for-difference-using-python/
+ 
+ ##forked from 
 
 **usage:**
 - python xlsxdiff.py --file1 /path/to/file1.xlsx --file2 /path/to/file2.xlsx
